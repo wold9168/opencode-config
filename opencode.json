@@ -16,10 +16,5 @@
         "qwen3-vl-plus": { "attachment": true }
       }
     },
-    "openai": {
-      "options": {
-        "baseURL": "https://api.duckcoding.ai/v1"
-      }
-    }
   }
 }
