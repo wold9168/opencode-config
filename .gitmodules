@@ -1,0 +1,3 @@
+[submodule "skills/typst-skill"]
+	path = skills/typst-skill
+	url = https://github.com/akilrammohan/typst-skill
