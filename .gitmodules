@@ -1,3 +1,6 @@
 [submodule "skills/typst-skill"]
 	path = skills/typst-skill
 	url = https://github.com/akilrammohan/typst-skill
+[submodule "skills/geng-academic-fraud-detector"]
+	path = skills/geng-academic-fraud-detector
+	url = git@github.com:wooly99/geng-academic-fraud-detector
