@@ -35,3 +35,6 @@
 如果你觉得你做的工作可以抽离成模板，那么使用 question 工具请示用户，让用户授权你应用 skill-creator 工具将相应的工作抽离成 skill。
 
 用户没有要求的时候，不允许在文档和文字输出中使用任何 emoji 字符
+
+若由你来完成 commit，则请使用 Assisted-by: AGENT_NAME:MODEL_VERSION [TOOL1] [TOOL2] 的形式标注 Commit 信息
+例如： Assisted-by: Claude:claude-3-opus coccinelle sparse
