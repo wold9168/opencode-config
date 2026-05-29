@@ -4,3 +4,6 @@
 [submodule "skills/geng-academic-fraud-detector"]
 	path = skills/geng-academic-fraud-detector
 	url = git@github.com:wooly99/geng-academic-fraud-detector
+[submodule "skills/maintain-ex2200"]
+	path = skills/maintain-ex2200
+	url = git@github.com:wold9168/ex2200.skill.git
